@@ -1,0 +1,85 @@
+body{
+    border: 2px solid black;
+    margin: 5px;
+    height: 550px;
+}
+
+html{
+    border: 2px solid black;
+    margin: 10px;
+    height: 565px;
+}
+
+
+p{
+    text-align: center;
+    font-size: 1.5rem;
+    
+    
+    
+}
+span{
+    font-size: 1rem;
+    
+    
+}
+#headone{
+    margin-right: 200px;
+    margin-left: 200px;
+    border: 1.5px solid black;
+    margin-top: 20px;
+}
+
+.one{
+    display: inline;
+    margin-right: 30px;
+    margin-left: 30px;
+    color: orangered;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+
+.two{
+    display: inline;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.three{
+    display: inline;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.four{
+    display: inline;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.five{
+    display: inline;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+hr{
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 20px;
+    border: 1px solid black;
+}
+img{
+    width: 250px;
+    height: 200px;
+    margin: -5px;
+    margin-top: 20px;
+}
+.piano{
+    width: 250px;
+    height: 200px;
+}
+.piano-key{
+    width: 250px;
+    height: 200px;
+}
